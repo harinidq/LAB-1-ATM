@@ -32,11 +32,9 @@ to withdraw money,deposit.
 
 
 
-
 ![Model1!ClassDiagram1_1](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/b96fead5-0491-48ca-8d34-bd071e59719c)
 
 #### ACTIVITY DIAGRAM:
-
 
 
 
